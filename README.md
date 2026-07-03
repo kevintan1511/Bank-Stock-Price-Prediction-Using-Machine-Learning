@@ -28,7 +28,7 @@ This project develops an AI-powered forecasting system for Vietnamese banking st
 
 ---
 
-# 📑 Table of Contents
+#  Table of Contents
 
 - Project Overview
 - Objectives
@@ -60,7 +60,7 @@ This project develops an AI-powered forecasting system for Vietnamese banking st
 - Build interactive dashboard
 - Explain predictions with AI
 
-# 📊 Dataset
+#  Dataset
 
 | Item | Value |
 |------|------|
@@ -104,7 +104,7 @@ Evaluation
 Prediction
 ```
 
-# 🤖 Models
+#  Models
 
 | Model | Purpose |
 |------|---------|
