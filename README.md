@@ -163,7 +163,7 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 - Python
 - TensorFlow
