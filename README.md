@@ -176,7 +176,7 @@ uvicorn app.main:app --reload
 - TypeScript
 - LangChain
 
-# 🗺 Roadmap
+#  Roadmap
 
 - [x] Data preprocessing
 - [x] Feature engineering
